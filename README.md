@@ -1,0 +1,2 @@
+# Infosys-Financial-Analysis-and-Quarterly-Forecasting-Using-Python
+This analysis examines Infosys Ltd.’s quarterly financial performance from FY2021–FY2025. It includes data cleaning, growth rate calculation, profitability trend analysis, and time series forecasting to predict future revenues. Visualizations reveal key insights, helping stakeholders assess Infosys’s growth and financial stability.
