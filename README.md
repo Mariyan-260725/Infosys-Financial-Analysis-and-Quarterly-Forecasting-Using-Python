@@ -14,3 +14,6 @@ This analysis examines Infosys Ltd.’s quarterly financial performance from FY2
 
 6. Visualization: Both Matplotlib and Plotly are utilized for graphical representations of actual and forecasted values, facilitating quick understanding for business decision makers.
 
+Forecasted Interactive Line Chart Preview
+(https://github.com/Mariyan-260725/Infosys-Financial-Analysis-and-Quarterly-Forecasting-Using-Python/blob/main/Forecasted%20Interactive%20Line%20Chart.png)
+
